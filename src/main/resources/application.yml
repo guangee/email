@@ -1,0 +1,6 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: emailsenddemo@163.com
+    password: RYHXTKPLWLSXEYGZ
+    port: 25
