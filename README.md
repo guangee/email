@@ -17,3 +17,8 @@
 > 我这里配置的163邮箱的账号密码
 
 3. 在代码中使用 JavaMailSender 发送邮件
+
+
+# 代码仓库
+https://gitlab.coding-space.cn/demo/email
+
